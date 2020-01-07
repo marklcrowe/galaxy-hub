@@ -217,11 +217,11 @@ In collaboration with a number of research scientists with hands on experience i
   * [Contact](http://www.openhelix.com/cgi/contact.cgi)
   * [OpenHelix online Intro to Galaxy Tutorial](http://www.openhelix.com/galaxy) (requires a [subscription](http://www.openhelix.com/cgi/subscriptions.cgi))
 
-### QFAB Bioinformatics
+### QCIF
 
-<div class='right'><a href='http://www.qfab.org/training/'><img src="/src/images/logos/QFABLogo.png" alt="QFAB Bioinformatics" width="100" /></a></div>
+<div class='right'><a href='http://www.qcif.edu.au/'><img src="/src/images/logos/QCIFlogo.jpg" alt="QCIF" /></a></div>
  
- [QFAB Bioinformatics](http://www.qfab.org/training/) offers a range of Galaxy-based bioinformatics workshops run by their training manager [Mark Crowe](http://www.qfab.org/mark-crowe/).
+ [QCIF](http://www.qcif.edu.au/) offers a range of Galaxy-based workshops though their bioinformatics division [QFAB Bioinformatics](http://qfab.org/training/). Workshops are run in partnership with [Australian BioCommons](https://www.biocommons.org.au/) and [Galaxy Australia](https://usegalaxy.org.au)
 
 **Domains:**
 
@@ -230,13 +230,13 @@ In collaboration with a number of research scientists with hands on experience i
   * Variant detection 
   * Bacterial de novo genome assembly
 
-**Reach:** Primarily Australia, but available globally
+**Reach:** Primarily Queensland, Australia, but available globally
 
 **Links & Contact:**
 
-  * [QFAB Bioinformatics website](http://qfab.org)
-  * [Bio page for Mark Crowe](http://www.qfab.org/mark-crowe/), QFAB's Training Manager and Galaxy specialist
-  * E-mail contact [training AT qfab DOT org](mailto:training AT qfab DOT org)
+  * [QCIF website](https://www.qcif.edu.au)
+  * [QFAB Bioinformatics website](https://qfab.org)
+  * E-mail contact [training AT qcif DOT edu DOT au](mailto:training AT qcif DOT edu DOT au)
 
 ### Stingray@Galaxy
 
